@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Search } from 'lucide-react';
 import { Navigation } from './components/layout/Navigation';
 import { SystemStatus } from './components/layout/SystemStatus';
 import { CommandPalette } from './components/layout/CommandPalette';
@@ -68,12 +69,20 @@ export default function App() {
             <h1 className="text-sm font-bold tracking-tight text-white leading-none">LedgerLens</h1>
             <span className="text-[8px] uppercase tracking-widest text-slate-500 font-bold">Workbench</span>
           </div>
-          <button 
-            onClick={() => setIsSidebarOpen(true)}
-            className="p-2 text-slate-400 hover:text-white rounded-lg hover:bg-slate-900"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>
-          </button>
+          <div className="flex items-center gap-1">
+            <button 
+              onClick={() => setIsCmdKOpen(true)}
+              className="p-2 text-slate-400 hover:text-white rounded-lg hover:bg-slate-900"
+            >
+              <Search size={20} />
+            </button>
+            <button 
+              onClick={() => setIsSidebarOpen(true)}
+              className="p-2 text-slate-400 hover:text-white rounded-lg hover:bg-slate-900"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>
+            </button>
+          </div>
         </div>
         
         <div className="flex-1 overflow-hidden flex flex-col">
