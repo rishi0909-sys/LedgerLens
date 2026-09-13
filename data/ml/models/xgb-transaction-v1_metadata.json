@@ -1,0 +1,55 @@
+{
+  "model_id": "xgb-transaction-v1",
+  "model_type": "xgboost",
+  "dataset_version": "1.0",
+  "feature_schema_version": "1.0",
+  "training_seed": 42,
+  "hyperparameters": {
+    "n_estimators": 100,
+    "max_depth": 4,
+    "learning_rate": 0.1
+  },
+  "test_metrics": {
+    "PR-AUC": 0.886938088283025,
+    "ROC-AUC": 0.9103535353535354,
+    "F1": 0.8571428571428571,
+    "Recall": 0.75,
+    "Precision": 1.0,
+    "FPR": 0.0,
+    "ConfusionMatrix": {
+      "TN": 99,
+      "FP": 0,
+      "FN": 2,
+      "TP": 6
+    },
+    "Precision@10": 0.7,
+    "Recall@10": 0.875,
+    "Precision@50": 0.14,
+    "Recall@50": 0.875,
+    "Precision@100": 0.08,
+    "Recall@100": 1.0,
+    "Recall_sequence_circular_flow": 1.0,
+    "Recall_transaction_unusual_time": 0.0,
+    "Recall_transaction_large_transfer": 0.0
+  },
+  "threshold": 0.992982029914856,
+  "artifact_path": "data/ml/models/xgb-transaction-v1.json",
+  "created_at": "2026-09-12T02:23:01.916452",
+  "feature_importance": {
+    "amount": 0.45832154154777527,
+    "hour": 0.07139327377080917,
+    "day_of_week": 0.03090711496770382,
+    "day_of_month": 0.06040026620030403,
+    "month": 0.046746887266635895,
+    "is_salary": 0.006062223110347986,
+    "is_invoice_payment": 0.0,
+    "is_transfer": 0.0,
+    "is_reimbursement": 0.018155205994844437,
+    "time_since_previous": 0.0411485992372036,
+    "rolling_txn_count": 0.0516863577067852,
+    "rolling_avg_amount": 0.051563914865255356,
+    "amount_deviation": 0.053535569459199905,
+    "amount_deviation_ratio": 0.04958797246217728,
+    "unique_counterparty_count": 0.06049112230539322
+  }
+}

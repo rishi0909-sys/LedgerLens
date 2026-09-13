@@ -1,0 +1,16 @@
+{
+  "dataset_version": "1.0",
+  "feature_schema_version": "1.0",
+  "target_definition": "is_anomalous",
+  "train_start": "2023-01-01 01:34:54",
+  "train_end": "2023-09-30 21:37:38",
+  "validation_start": "2023-10-01 06:56:28",
+  "validation_end": "2023-11-15 13:05:09",
+  "test_start": "2023-11-16 06:36:42",
+  "test_end": "2023-12-29 05:37:56",
+  "train_count": 844,
+  "val_count": 148,
+  "test_count": 107,
+  "total_anomalies": 132,
+  "positive_prevalence": 0.12010919017288443
+}

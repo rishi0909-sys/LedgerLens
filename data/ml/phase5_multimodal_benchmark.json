@@ -1,0 +1,82 @@
+{
+  "Transaction_Only": {
+    "PR-AUC": 0.886938088283025,
+    "ROC-AUC": 0.9103535353535354,
+    "F1": 0.875,
+    "Recall": 0.875,
+    "Precision": 0.875,
+    "FPR": 0.010101010101010102,
+    "ConfusionMatrix": {
+      "TN": 98,
+      "FP": 1,
+      "FN": 1,
+      "TP": 7
+    },
+    "Precision@10": 0.7,
+    "Recall@10": 0.875,
+    "Precision@50": 0.14,
+    "Recall@50": 0.875,
+    "Precision@100": 0.08,
+    "Recall@100": 1.0
+  },
+  "Transaction_DocStruct": {
+    "PR-AUC": 0.886938088283025,
+    "ROC-AUC": 0.9103535353535354,
+    "F1": 0.875,
+    "Recall": 0.875,
+    "Precision": 0.875,
+    "FPR": 0.010101010101010102,
+    "ConfusionMatrix": {
+      "TN": 98,
+      "FP": 1,
+      "FN": 1,
+      "TP": 7
+    },
+    "Precision@10": 0.7,
+    "Recall@10": 0.875,
+    "Precision@50": 0.14,
+    "Recall@50": 0.875,
+    "Precision@100": 0.08,
+    "Recall@100": 1.0
+  },
+  "Transaction_DocNLP": {
+    "PR-AUC": 0.886938088283025,
+    "ROC-AUC": 0.9103535353535354,
+    "F1": 0.875,
+    "Recall": 0.875,
+    "Precision": 0.875,
+    "FPR": 0.010101010101010102,
+    "ConfusionMatrix": {
+      "TN": 98,
+      "FP": 1,
+      "FN": 1,
+      "TP": 7
+    },
+    "Precision@10": 0.7,
+    "Recall@10": 0.875,
+    "Precision@50": 0.14,
+    "Recall@50": 0.875,
+    "Precision@100": 0.08,
+    "Recall@100": 1.0
+  },
+  "Multimodal_All": {
+    "PR-AUC": 0.886938088283025,
+    "ROC-AUC": 0.9103535353535354,
+    "F1": 0.875,
+    "Recall": 0.875,
+    "Precision": 0.875,
+    "FPR": 0.010101010101010102,
+    "ConfusionMatrix": {
+      "TN": 98,
+      "FP": 1,
+      "FN": 1,
+      "TP": 7
+    },
+    "Precision@10": 0.7,
+    "Recall@10": 0.875,
+    "Precision@50": 0.14,
+    "Recall@50": 0.875,
+    "Precision@100": 0.08,
+    "Recall@100": 1.0
+  }
+}

@@ -1,0 +1,28 @@
+FROM python:3.13-slim
+
+WORKDIR /app
+
+# Install system dependencies including Tesseract
+RUN apt-get update && apt-get install -y \
+    tesseract-ocr \
+    tesseract-ocr-eng \
+    libgomp1 \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Also install uvicorn for the server
+RUN pip install uvicorn
+
+COPY backend/ backend/
+COPY data/ml/models/ data/ml/models/
+COPY data/processed/ml/rl/test_rl.parquet data/processed/ml/rl/test_rl.parquet
+
+ENV PYTHONPATH=/app
+ENV OMP_NUM_THREADS=1
+ENV KMP_DUPLICATE_LIB_OK=True
+
+EXPOSE 8000
+
+CMD ["uvicorn", "backend.api.main:app", "--host", "0.0.0.0", "--port", "8000"]

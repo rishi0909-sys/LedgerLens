@@ -1,0 +1,1416 @@
+[
+  {
+    "document_id": "DOC_INV_0ec0ad4b",
+    "invoice_id": "INV_0ec0ad4b",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 11935.39,
+      "tax": 1193.54,
+      "total": 13128.93,
+      "vendor_name": "Griffin Group LLC",
+      "date_issued": "2023-07-21"
+    }
+  },
+  {
+    "document_id": "DOC_INV_0cf173f9",
+    "invoice_id": "INV_0cf173f9",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 33015.39,
+      "tax": 3301.54,
+      "total": 36316.93,
+      "vendor_name": "White-Richards Ltd",
+      "date_issued": "2023-05-30"
+    }
+  },
+  {
+    "document_id": "DOC_INV_32f8dbab",
+    "invoice_id": "INV_32f8dbab",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 28128.01,
+      "tax": 2812.8,
+      "total": 30940.809999999998,
+      "vendor_name": "Gibson-Morris and Sons",
+      "date_issued": "2023-08-10"
+    }
+  },
+  {
+    "document_id": "DOC_INV_76d70561",
+    "invoice_id": "INV_76d70561",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 86414.82564021704,
+      "tax": 3388.74,
+      "total": 89803.56564021704,
+      "vendor_name": "Torres-Oliver PLC",
+      "date_issued": "2023-10-17"
+    }
+  },
+  {
+    "document_id": "DOC_INV_ec4e8cbb",
+    "invoice_id": "INV_ec4e8cbb",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 39726.85,
+      "tax": 3972.68,
+      "total": 43699.53,
+      "vendor_name": "Davis and Sons Group",
+      "date_issued": "2023-09-30"
+    }
+  },
+  {
+    "document_id": "DOC_INV_3defa7ba",
+    "invoice_id": "INV_3defa7ba",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 33047.83,
+      "tax": 3304.78,
+      "total": 36352.61,
+      "vendor_name": "Perez, Mills and Hayes Group",
+      "date_issued": "2023-08-02"
+    }
+  },
+  {
+    "document_id": "DOC_INV_7233d5af",
+    "invoice_id": "INV_7233d5af",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 27729.03,
+      "tax": 2772.9,
+      "total": 30501.93,
+      "vendor_name": "Miller-Wright PLC",
+      "date_issued": "2023-07-27"
+    }
+  },
+  {
+    "document_id": "DOC_INV_797e3984",
+    "invoice_id": "INV_797e3984",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 31845.42,
+      "tax": 3184.54,
+      "total": 35029.96,
+      "vendor_name": "Hall-Rowe Inc",
+      "date_issued": "2023-05-07"
+    }
+  },
+  {
+    "document_id": "DOC_INV_5820b3f2",
+    "invoice_id": "INV_5820b3f2",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 28375.66,
+      "tax": 2837.57,
+      "total": 31213.23,
+      "vendor_name": "White-Smith PLC",
+      "date_issued": "2023-11-17"
+    }
+  },
+  {
+    "document_id": "DOC_INV_42378962",
+    "invoice_id": "INV_42378962",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 38332.17795662386,
+      "tax": 1307.74,
+      "total": 39639.91795662386,
+      "vendor_name": "Gibson-Morris and Sons",
+      "date_issued": "2023-03-25"
+    }
+  },
+  {
+    "document_id": "DOC_INV_1723ecdb",
+    "invoice_id": "INV_1723ecdb",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 131164.75920837448,
+      "tax": 3645.25,
+      "total": 134810.00920837448,
+      "vendor_name": "Garcia LLC Ltd",
+      "date_issued": "2023-06-25"
+    }
+  },
+  {
+    "document_id": "DOC_INV_0cb5ee5c",
+    "invoice_id": "INV_0cb5ee5c",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 168082.78597931596,
+      "tax": 4967.39,
+      "total": 173050.17597931597,
+      "vendor_name": "Beard, Peters and Black and Sons",
+      "date_issued": "2023-04-21"
+    }
+  },
+  {
+    "document_id": "DOC_INV_c7a2f280",
+    "invoice_id": "INV_c7a2f280",
+    "template_id": 2,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "amount_mismatch",
+    "rendered_fields": {
+      "amount": 111337.29999999999,
+      "tax": 1113.37,
+      "total": 112450.66999999998,
+      "vendor_name": "Bray, Warren and Campbell Inc",
+      "date_issued": "2023-04-28"
+    }
+  },
+  {
+    "document_id": "DOC_INV_38aa76df",
+    "invoice_id": "INV_38aa76df",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 25807.94,
+      "tax": 2580.79,
+      "total": 28388.73,
+      "vendor_name": "Steele-Roberts Group",
+      "date_issued": "2023-05-03"
+    }
+  },
+  {
+    "document_id": "DOC_INV_34ec5264",
+    "invoice_id": "INV_34ec5264",
+    "template_id": 1,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "vendor_alteration",
+    "rendered_fields": {
+      "amount": 23288.31,
+      "tax": 2328.83,
+      "total": 25617.14,
+      "vendor_name": "Atkinson Group Inc LLC (Payment Account)",
+      "date_issued": "2023-08-10"
+    }
+  },
+  {
+    "document_id": "DOC_INV_83666636",
+    "invoice_id": "INV_83666636",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 44536.45,
+      "tax": 4453.64,
+      "total": 48990.09,
+      "vendor_name": "Garrett LLC Ltd",
+      "date_issued": "2023-03-02"
+    }
+  },
+  {
+    "document_id": "DOC_INV_f796611f",
+    "invoice_id": "INV_f796611f",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 23926.536392369824,
+      "tax": 504.93,
+      "total": 24431.466392369824,
+      "vendor_name": "Jones-Soto Inc",
+      "date_issued": "2023-04-08"
+    }
+  },
+  {
+    "document_id": "DOC_INV_795e6f2b",
+    "invoice_id": "INV_795e6f2b",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 16572.26,
+      "tax": 1657.23,
+      "total": 18229.489999999998,
+      "vendor_name": "Griffin Group LLC",
+      "date_issued": "2023-06-05"
+    }
+  },
+  {
+    "document_id": "DOC_INV_2c56e0cd",
+    "invoice_id": "INV_2c56e0cd",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 35290.97,
+      "tax": 3529.1,
+      "total": 38820.07,
+      "vendor_name": "Barton-Dickerson LLC",
+      "date_issued": "2023-07-07"
+    }
+  },
+  {
+    "document_id": "DOC_INV_3948fe22",
+    "invoice_id": "INV_3948fe22",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 15369.47,
+      "tax": 1536.95,
+      "total": 16906.42,
+      "vendor_name": "Murray Inc Ltd",
+      "date_issued": "2023-11-15"
+    }
+  },
+  {
+    "document_id": "DOC_INV_f168c605",
+    "invoice_id": "INV_f168c605",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 3268.17,
+      "tax": 326.82,
+      "total": 3594.9900000000002,
+      "vendor_name": "Hughes-Alvarado Ltd",
+      "date_issued": "2023-10-11"
+    }
+  },
+  {
+    "document_id": "DOC_INV_b599277f",
+    "invoice_id": "INV_b599277f",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 21117.82,
+      "tax": 2111.78,
+      "total": 23229.6,
+      "vendor_name": "Stephens Ltd and Sons",
+      "date_issued": "2023-10-27"
+    }
+  },
+  {
+    "document_id": "DOC_INV_e53e5f4c",
+    "invoice_id": "INV_e53e5f4c",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 32812.57,
+      "tax": 3281.26,
+      "total": 36093.83,
+      "vendor_name": "Gibson-Morris and Sons",
+      "date_issued": "2023-12-04"
+    }
+  },
+  {
+    "document_id": "DOC_INV_7580e4e9",
+    "invoice_id": "INV_7580e4e9",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 15586.78,
+      "tax": 1558.68,
+      "total": 17145.46,
+      "vendor_name": "Zimmerman-Graham Ltd",
+      "date_issued": "2023-08-22"
+    }
+  },
+  {
+    "document_id": "DOC_INV_4d59616b",
+    "invoice_id": "INV_4d59616b",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 7904.21,
+      "tax": 790.42,
+      "total": 8694.63,
+      "vendor_name": "Miller-King Inc",
+      "date_issued": "2023-01-16"
+    }
+  },
+  {
+    "document_id": "DOC_INV_9fa4a627",
+    "invoice_id": "INV_9fa4a627",
+    "template_id": 1,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "amount_mismatch",
+    "rendered_fields": {
+      "amount": 1241584.559377579,
+      "tax": 3384.49,
+      "total": 1244969.049377579,
+      "vendor_name": "Zimmerman-Graham Ltd",
+      "date_issued": "2023-07-15"
+    }
+  },
+  {
+    "document_id": "DOC_INV_01e187d8",
+    "invoice_id": "INV_01e187d8",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 25484.1,
+      "tax": 2548.41,
+      "total": 28032.51,
+      "vendor_name": "Miller-King Inc",
+      "date_issued": "2023-06-02"
+    }
+  },
+  {
+    "document_id": "DOC_INV_f76b9723",
+    "invoice_id": "INV_f76b9723",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 7826.61,
+      "tax": 782.66,
+      "total": 8609.27,
+      "vendor_name": "Mann-Warner Group",
+      "date_issued": "2023-03-28"
+    }
+  },
+  {
+    "document_id": "DOC_INV_8fbba749",
+    "invoice_id": "INV_8fbba749",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 37393.09,
+      "tax": 3739.31,
+      "total": 41132.399999999994,
+      "vendor_name": "Miller-King Inc",
+      "date_issued": "2023-05-11"
+    }
+  },
+  {
+    "document_id": "DOC_INV_485d831c",
+    "invoice_id": "INV_485d831c",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 20227.09,
+      "tax": 2022.71,
+      "total": 22249.8,
+      "vendor_name": "Christian-Rivas Inc",
+      "date_issued": "2023-08-01"
+    }
+  },
+  {
+    "document_id": "DOC_INV_7b53359e",
+    "invoice_id": "INV_7b53359e",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 28185.16,
+      "tax": 2818.52,
+      "total": 31003.68,
+      "vendor_name": "Fernandez, Kim and George Group",
+      "date_issued": "2023-06-18"
+    }
+  },
+  {
+    "document_id": "DOC_INV_46c79b36",
+    "invoice_id": "INV_46c79b36",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 28277.8,
+      "tax": 2827.78,
+      "total": 31105.579999999998,
+      "vendor_name": "Nelson-King Inc",
+      "date_issued": "2023-07-09"
+    }
+  },
+  {
+    "document_id": "DOC_INV_46e1ee40",
+    "invoice_id": "INV_46e1ee40",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 13679.73,
+      "tax": 1367.97,
+      "total": 15047.699999999999,
+      "vendor_name": "Morton, Medina and Webb Group",
+      "date_issued": "2023-10-13"
+    }
+  },
+  {
+    "document_id": "DOC_INV_f3c2944a",
+    "invoice_id": "INV_f3c2944a",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 6070.23,
+      "tax": 607.02,
+      "total": 6677.25,
+      "vendor_name": "Christian-Rivas Inc",
+      "date_issued": "2023-06-17"
+    }
+  },
+  {
+    "document_id": "DOC_INV_30385dd7",
+    "invoice_id": "INV_30385dd7",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 9929.24,
+      "tax": 992.92,
+      "total": 10922.16,
+      "vendor_name": "Torres-Oliver PLC",
+      "date_issued": "2023-06-10"
+    }
+  },
+  {
+    "document_id": "DOC_INV_3d846fc9",
+    "invoice_id": "INV_3d846fc9",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 49388.77,
+      "tax": 4938.88,
+      "total": 54327.649999999994,
+      "vendor_name": "Davis and Sons Group",
+      "date_issued": "2023-05-14"
+    }
+  },
+  {
+    "document_id": "DOC_INV_db7904e0",
+    "invoice_id": "INV_db7904e0",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 22302.94,
+      "tax": 2230.29,
+      "total": 24533.23,
+      "vendor_name": "Peters-Allen Group",
+      "date_issued": "2023-08-28"
+    }
+  },
+  {
+    "document_id": "DOC_INV_6772fe9f",
+    "invoice_id": "INV_6772fe9f",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 19004.13,
+      "tax": 1900.41,
+      "total": 20904.54,
+      "vendor_name": "Thomas, Lee and Greene Ltd",
+      "date_issued": "2023-12-25"
+    }
+  },
+  {
+    "document_id": "DOC_INV_23d26b8d",
+    "invoice_id": "INV_23d26b8d",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 3199.63,
+      "tax": 319.96,
+      "total": 3519.59,
+      "vendor_name": "Gibson-Morris and Sons",
+      "date_issued": "2023-10-22"
+    }
+  },
+  {
+    "document_id": "DOC_INV_7f53d344",
+    "invoice_id": "INV_7f53d344",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 17491.93,
+      "tax": 1749.19,
+      "total": 19241.12,
+      "vendor_name": "Garcia LLC Ltd",
+      "date_issued": "2023-08-30"
+    }
+  },
+  {
+    "document_id": "DOC_INV_e82b5b36",
+    "invoice_id": "INV_e82b5b36",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 23823.92,
+      "tax": 2382.39,
+      "total": 26206.309999999998,
+      "vendor_name": "Brown LLC PLC",
+      "date_issued": "2023-11-09"
+    }
+  },
+  {
+    "document_id": "DOC_INV_bc9a7998",
+    "invoice_id": "INV_bc9a7998",
+    "template_id": 2,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "arithmetic_error",
+    "rendered_fields": {
+      "amount": 10588.17,
+      "tax": 1058.82,
+      "total": 16017.677429250247,
+      "vendor_name": "Herrera, Gill and Lopez and Sons",
+      "date_issued": "2023-05-09"
+    }
+  },
+  {
+    "document_id": "DOC_INV_fea82e3a",
+    "invoice_id": "INV_fea82e3a",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 31340.58,
+      "tax": 3134.06,
+      "total": 34474.64,
+      "vendor_name": "Fernandez, Kim and George Group",
+      "date_issued": "2023-07-23"
+    }
+  },
+  {
+    "document_id": "DOC_INV_57d9cbb0",
+    "invoice_id": "INV_57d9cbb0",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 154714.3205087542,
+      "tax": 4534.9,
+      "total": 159249.2205087542,
+      "vendor_name": "Bryan, Smith and Booth Group",
+      "date_issued": "2023-02-24"
+    }
+  },
+  {
+    "document_id": "DOC_INV_afb28b3d",
+    "invoice_id": "INV_afb28b3d",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 3475.45,
+      "tax": 347.55,
+      "total": 3823.0,
+      "vendor_name": "Davis and Sons Group",
+      "date_issued": "2023-07-24"
+    }
+  },
+  {
+    "document_id": "DOC_INV_79c9c839",
+    "invoice_id": "INV_79c9c839",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 32910.51,
+      "tax": 3291.05,
+      "total": 36201.560000000005,
+      "vendor_name": "Gonzales-Harrison LLC",
+      "date_issued": "2023-03-19"
+    }
+  },
+  {
+    "document_id": "DOC_INV_5bc677ca",
+    "invoice_id": "INV_5bc677ca",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 13929.86,
+      "tax": 1392.99,
+      "total": 15322.85,
+      "vendor_name": "Carter, Thornton and Perry Group",
+      "date_issued": "2023-01-04"
+    }
+  },
+  {
+    "document_id": "DOC_INV_2b843ef3",
+    "invoice_id": "INV_2b843ef3",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 14978.53,
+      "tax": 1497.85,
+      "total": 16476.38,
+      "vendor_name": "Patton, Reed and Patterson LLC",
+      "date_issued": "2023-11-27"
+    }
+  },
+  {
+    "document_id": "DOC_INV_8ee9581a",
+    "invoice_id": "INV_8ee9581a",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 25672.75,
+      "tax": 2567.28,
+      "total": 28240.03,
+      "vendor_name": "Jones, Smith and Hayes PLC",
+      "date_issued": "2023-12-10"
+    }
+  },
+  {
+    "document_id": "DOC_INV_7885187d",
+    "invoice_id": "INV_7885187d",
+    "template_id": 2,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "amount_mismatch",
+    "rendered_fields": {
+      "amount": 434052.5,
+      "tax": 4340.53,
+      "total": 438393.03,
+      "vendor_name": "Davis Ltd PLC",
+      "date_issued": "2023-10-03"
+    }
+  },
+  {
+    "document_id": "DOC_INV_b9a5d4d0",
+    "invoice_id": "INV_b9a5d4d0",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 108810.2389702539,
+      "tax": 2528.22,
+      "total": 111338.4589702539,
+      "vendor_name": "Nelson-King Inc",
+      "date_issued": "2023-07-26"
+    }
+  },
+  {
+    "document_id": "DOC_INV_e9a1c6d5",
+    "invoice_id": "INV_e9a1c6d5",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 46152.37,
+      "tax": 4615.24,
+      "total": 50767.61,
+      "vendor_name": "White-Smith PLC",
+      "date_issued": "2023-06-27"
+    }
+  },
+  {
+    "document_id": "DOC_INV_e64b9b37",
+    "invoice_id": "INV_e64b9b37",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 37347.34,
+      "tax": 3734.73,
+      "total": 41082.07,
+      "vendor_name": "Mann-Warner Group",
+      "date_issued": "2023-04-29"
+    }
+  },
+  {
+    "document_id": "DOC_INV_38e59b27",
+    "invoice_id": "INV_38e59b27",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 31448.93,
+      "tax": 3144.89,
+      "total": 34593.82,
+      "vendor_name": "Torres-Oliver PLC",
+      "date_issued": "2023-01-08"
+    }
+  },
+  {
+    "document_id": "DOC_INV_df162ec3",
+    "invoice_id": "INV_df162ec3",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 13255.13,
+      "tax": 1325.51,
+      "total": 14580.64,
+      "vendor_name": "Lloyd, Mckinney and Collins Inc",
+      "date_issued": "2023-04-02"
+    }
+  },
+  {
+    "document_id": "DOC_INV_e3082ddc",
+    "invoice_id": "INV_e3082ddc",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 11666.34,
+      "tax": 1166.63,
+      "total": 12832.970000000001,
+      "vendor_name": "Salas PLC LLC",
+      "date_issued": "2023-05-31"
+    }
+  },
+  {
+    "document_id": "DOC_INV_95e7f614",
+    "invoice_id": "INV_95e7f614",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 36629.54,
+      "tax": 3662.95,
+      "total": 40292.49,
+      "vendor_name": "Christian-Rivas Inc",
+      "date_issued": "2023-05-13"
+    }
+  },
+  {
+    "document_id": "DOC_INV_1e26ed31",
+    "invoice_id": "INV_1e26ed31",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 28858.48,
+      "tax": 2885.85,
+      "total": 31744.329999999998,
+      "vendor_name": "White-Smith PLC",
+      "date_issued": "2023-07-22"
+    }
+  },
+  {
+    "document_id": "DOC_INV_a267d32f",
+    "invoice_id": "INV_a267d32f",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 22733.87,
+      "tax": 2273.39,
+      "total": 25007.26,
+      "vendor_name": "Perez, Mills and Hayes Group",
+      "date_issued": "2023-06-15"
+    }
+  },
+  {
+    "document_id": "DOC_INV_9ee339ff",
+    "invoice_id": "INV_9ee339ff",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 102953.61774794431,
+      "tax": 2729.7,
+      "total": 105683.31774794431,
+      "vendor_name": "Bryan, Smith and Booth Group",
+      "date_issued": "2023-02-21"
+    }
+  },
+  {
+    "document_id": "DOC_INV_31cd9f6e",
+    "invoice_id": "INV_31cd9f6e",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 34582.34,
+      "tax": 3458.23,
+      "total": 38040.57,
+      "vendor_name": "Jones-Soto Inc",
+      "date_issued": "2023-11-07"
+    }
+  },
+  {
+    "document_id": "DOC_INV_ae423568",
+    "invoice_id": "INV_ae423568",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 7685.04,
+      "tax": 768.5,
+      "total": 8453.54,
+      "vendor_name": "Hughes-Alvarado Ltd",
+      "date_issued": "2023-12-15"
+    }
+  },
+  {
+    "document_id": "DOC_INV_69c165ae",
+    "invoice_id": "INV_69c165ae",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 28088.34,
+      "tax": 2808.83,
+      "total": 30897.17,
+      "vendor_name": "Morton, Medina and Webb Group",
+      "date_issued": "2023-12-29"
+    }
+  },
+  {
+    "document_id": "DOC_INV_26996aab",
+    "invoice_id": "INV_26996aab",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 42056.36,
+      "tax": 4205.64,
+      "total": 46262.0,
+      "vendor_name": "Miller-Wright PLC",
+      "date_issued": "2023-10-07"
+    }
+  },
+  {
+    "document_id": "DOC_INV_57b936b0",
+    "invoice_id": "INV_57b936b0",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 48079.21,
+      "tax": 4807.92,
+      "total": 52887.13,
+      "vendor_name": "French-Weber Ltd",
+      "date_issued": "2023-02-26"
+    }
+  },
+  {
+    "document_id": "DOC_INV_e4917f7d",
+    "invoice_id": "INV_e4917f7d",
+    "template_id": 1,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "arithmetic_error",
+    "rendered_fields": {
+      "amount": 39065.84,
+      "tax": 3906.58,
+      "total": 46074.05489178461,
+      "vendor_name": "Peters-Allen Group",
+      "date_issued": "2023-04-28"
+    }
+  },
+  {
+    "document_id": "DOC_INV_24aa5685",
+    "invoice_id": "INV_24aa5685",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 38241.15,
+      "tax": 3824.12,
+      "total": 42065.270000000004,
+      "vendor_name": "Patton, Reed and Patterson LLC",
+      "date_issued": "2023-02-11"
+    }
+  },
+  {
+    "document_id": "DOC_INV_2e2bdc6c",
+    "invoice_id": "INV_2e2bdc6c",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 30811.92,
+      "tax": 3081.19,
+      "total": 33893.11,
+      "vendor_name": "Miller-King Inc",
+      "date_issued": "2023-08-26"
+    }
+  },
+  {
+    "document_id": "DOC_INV_55273407",
+    "invoice_id": "INV_55273407",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 1791.18,
+      "tax": 179.12,
+      "total": 1970.3000000000002,
+      "vendor_name": "Thomas, Lee and Greene Ltd",
+      "date_issued": "2023-08-20"
+    }
+  },
+  {
+    "document_id": "DOC_INV_503be788",
+    "invoice_id": "INV_503be788",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 42383.84,
+      "tax": 4238.38,
+      "total": 46622.219999999994,
+      "vendor_name": "Underwood, Johnston and Hines and Sons",
+      "date_issued": "2023-01-31"
+    }
+  },
+  {
+    "document_id": "DOC_INV_73b9c2ac",
+    "invoice_id": "INV_73b9c2ac",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 24826.56,
+      "tax": 2482.66,
+      "total": 27309.22,
+      "vendor_name": "Jones, Smith and Hayes PLC",
+      "date_issued": "2023-07-02"
+    }
+  },
+  {
+    "document_id": "DOC_INV_c606ddc4",
+    "invoice_id": "INV_c606ddc4",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 2095.36,
+      "tax": 209.54,
+      "total": 2304.9,
+      "vendor_name": "Bray, Warren and Campbell Inc",
+      "date_issued": "2023-02-23"
+    }
+  },
+  {
+    "document_id": "DOC_INV_288f3435",
+    "invoice_id": "INV_288f3435",
+    "template_id": 1,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "amount_mismatch",
+    "rendered_fields": {
+      "amount": 115164.3,
+      "tax": 1151.64,
+      "total": 116315.94,
+      "vendor_name": "French-Weber Ltd",
+      "date_issued": "2023-10-24"
+    }
+  },
+  {
+    "document_id": "DOC_INV_c79ddb62",
+    "invoice_id": "INV_c79ddb62",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 9265.37,
+      "tax": 926.54,
+      "total": 10191.91,
+      "vendor_name": "Morton, Medina and Webb Group",
+      "date_issued": "2023-09-18"
+    }
+  },
+  {
+    "document_id": "DOC_INV_6f07b60f",
+    "invoice_id": "INV_6f07b60f",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 44435.55,
+      "tax": 4443.56,
+      "total": 48879.11,
+      "vendor_name": "Gonzales-Harrison LLC",
+      "date_issued": "2023-06-20"
+    }
+  },
+  {
+    "document_id": "DOC_INV_6dd49c96",
+    "invoice_id": "INV_6dd49c96",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 36898.92,
+      "tax": 3689.89,
+      "total": 40588.81,
+      "vendor_name": "Dean-Jimenez Group",
+      "date_issued": "2023-06-16"
+    }
+  },
+  {
+    "document_id": "DOC_INV_0131ff3b",
+    "invoice_id": "INV_0131ff3b",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 46987.39,
+      "tax": 4698.74,
+      "total": 51686.13,
+      "vendor_name": "Anderson, Roberts and Gilmore Group",
+      "date_issued": "2023-05-28"
+    }
+  },
+  {
+    "document_id": "DOC_INV_bb0c7919",
+    "invoice_id": "INV_bb0c7919",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 22854.67,
+      "tax": 2285.47,
+      "total": 25140.14,
+      "vendor_name": "Hudson-Barnett LLC",
+      "date_issued": "2023-08-11"
+    }
+  },
+  {
+    "document_id": "DOC_INV_e45a87e8",
+    "invoice_id": "INV_e45a87e8",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 27124.52,
+      "tax": 2712.45,
+      "total": 29836.97,
+      "vendor_name": "White-Richards Ltd",
+      "date_issued": "2023-11-18"
+    }
+  },
+  {
+    "document_id": "DOC_INV_87f1d48c",
+    "invoice_id": "INV_87f1d48c",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 26048.27,
+      "tax": 2604.83,
+      "total": 28653.1,
+      "vendor_name": "Jones, Smith and Hayes PLC",
+      "date_issued": "2023-10-13"
+    }
+  },
+  {
+    "document_id": "DOC_INV_010e4265",
+    "invoice_id": "INV_010e4265",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 22257.92,
+      "tax": 2225.79,
+      "total": 24483.71,
+      "vendor_name": "Sheppard LLC Group",
+      "date_issued": "2023-09-02"
+    }
+  },
+  {
+    "document_id": "DOC_INV_39ec8ca1",
+    "invoice_id": "INV_39ec8ca1",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 8741.09,
+      "tax": 874.11,
+      "total": 9615.2,
+      "vendor_name": "Gonzales-Harrison LLC",
+      "date_issued": "2023-12-10"
+    }
+  },
+  {
+    "document_id": "DOC_INV_4fe54745",
+    "invoice_id": "INV_4fe54745",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 23447.16,
+      "tax": 2344.72,
+      "total": 25791.88,
+      "vendor_name": "Peters-Allen Group",
+      "date_issued": "2023-04-25"
+    }
+  },
+  {
+    "document_id": "DOC_INV_80daa8ca",
+    "invoice_id": "INV_80daa8ca",
+    "template_id": 1,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "date_alteration",
+    "rendered_fields": {
+      "amount": 25282.56,
+      "tax": 2528.26,
+      "total": 27810.82,
+      "vendor_name": "Griffin Group LLC",
+      "date_issued": "2023-12-07"
+    }
+  },
+  {
+    "document_id": "DOC_DUP_INV_80daa8ca",
+    "invoice_id": "INV_80daa8ca",
+    "template_id": 1,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "duplicate",
+    "rendered_fields": {
+      "amount": 25282.56,
+      "tax": 2528.26,
+      "total": 27810.82,
+      "vendor_name": "Griffin Group LLC",
+      "date_issued": "2023-12-07"
+    }
+  },
+  {
+    "document_id": "DOC_INV_10b6a662",
+    "invoice_id": "INV_10b6a662",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 16511.32,
+      "tax": 1651.13,
+      "total": 18162.45,
+      "vendor_name": "French-Weber Ltd",
+      "date_issued": "2023-03-11"
+    }
+  },
+  {
+    "document_id": "DOC_INV_f2ce7eeb",
+    "invoice_id": "INV_f2ce7eeb",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 44882.57,
+      "tax": 4488.26,
+      "total": 49370.83,
+      "vendor_name": "Bryan, Smith and Booth Group",
+      "date_issued": "2023-01-10"
+    }
+  },
+  {
+    "document_id": "DOC_INV_85319f0f",
+    "invoice_id": "INV_85319f0f",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 56234.34852069136,
+      "tax": 1287.91,
+      "total": 57522.258520691365,
+      "vendor_name": "Christian-Rivas Inc",
+      "date_issued": "2023-12-14"
+    }
+  },
+  {
+    "document_id": "DOC_INV_6f04af36",
+    "invoice_id": "INV_6f04af36",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 6151.16,
+      "tax": 615.12,
+      "total": 6766.28,
+      "vendor_name": "Christian-Rivas Inc",
+      "date_issued": "2023-09-26"
+    }
+  },
+  {
+    "document_id": "DOC_INV_2240063b",
+    "invoice_id": "INV_2240063b",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 83046.60658576703,
+      "tax": 3551.03,
+      "total": 86597.63658576703,
+      "vendor_name": "White-Richards Ltd",
+      "date_issued": "2023-06-24"
+    }
+  },
+  {
+    "document_id": "DOC_INV_7d7c59a5",
+    "invoice_id": "INV_7d7c59a5",
+    "template_id": 2,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "arithmetic_error",
+    "rendered_fields": {
+      "amount": 19340.05,
+      "tax": 1934.01,
+      "total": 23493.078426188975,
+      "vendor_name": "Steele-Roberts Group",
+      "date_issued": "2023-10-10"
+    }
+  },
+  {
+    "document_id": "DOC_INV_2a35ce30",
+    "invoice_id": "INV_2a35ce30",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 43629.62,
+      "tax": 4362.96,
+      "total": 47992.58,
+      "vendor_name": "Miller-King Inc",
+      "date_issued": "2023-10-26"
+    }
+  },
+  {
+    "document_id": "DOC_INV_cfdfc6f9",
+    "invoice_id": "INV_cfdfc6f9",
+    "template_id": 2,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "date_alteration",
+    "rendered_fields": {
+      "amount": 9353.9,
+      "tax": 935.39,
+      "total": 10289.289999999999,
+      "vendor_name": "Peters-Allen Group",
+      "date_issued": "2023-09-03"
+    }
+  },
+  {
+    "document_id": "DOC_INV_396d1ffb",
+    "invoice_id": "INV_396d1ffb",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 15821.16,
+      "tax": 1582.12,
+      "total": 17403.28,
+      "vendor_name": "Jones-Soto Inc",
+      "date_issued": "2023-10-04"
+    }
+  },
+  {
+    "document_id": "DOC_INV_3610901c",
+    "invoice_id": "INV_3610901c",
+    "template_id": 2,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 31731.92780620567,
+      "tax": 944.45,
+      "total": 32676.37780620567,
+      "vendor_name": "Lloyd, Mckinney and Collins Inc",
+      "date_issued": "2023-10-26"
+    }
+  },
+  {
+    "document_id": "DOC_INV_812faa38",
+    "invoice_id": "INV_812faa38",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 31316.74,
+      "tax": 3131.67,
+      "total": 34448.41,
+      "vendor_name": "Garcia LLC Ltd",
+      "date_issued": "2023-12-15"
+    }
+  },
+  {
+    "document_id": "DOC_INV_b60b4f87",
+    "invoice_id": "INV_b60b4f87",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 42842.85,
+      "tax": 4284.28,
+      "total": 47127.13,
+      "vendor_name": "Davis Ltd PLC",
+      "date_issued": "2023-04-09"
+    }
+  },
+  {
+    "document_id": "DOC_INV_600c9c71",
+    "invoice_id": "INV_600c9c71",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 12274.98,
+      "tax": 1227.5,
+      "total": 13502.48,
+      "vendor_name": "Davis Ltd PLC",
+      "date_issued": "2023-07-31"
+    }
+  },
+  {
+    "document_id": "DOC_INV_c5709e30",
+    "invoice_id": "INV_c5709e30",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 22372.83,
+      "tax": 2237.28,
+      "total": 24610.11,
+      "vendor_name": "French-Weber Ltd",
+      "date_issued": "2023-08-17"
+    }
+  },
+  {
+    "document_id": "DOC_INV_980b6853",
+    "invoice_id": "INV_980b6853",
+    "template_id": 1,
+    "is_document_anomaly": false,
+    "document_anomaly_type": null,
+    "rendered_fields": {
+      "amount": 63524.25575006629,
+      "tax": 1426.66,
+      "total": 64950.91575006629,
+      "vendor_name": "Steele-Roberts Group",
+      "date_issued": "2023-08-22"
+    }
+  },
+  {
+    "document_id": "DOC_INV_1bad52a8",
+    "invoice_id": "INV_1bad52a8",
+    "template_id": 1,
+    "is_document_anomaly": true,
+    "document_anomaly_type": "amount_mismatch",
+    "rendered_fields": {
+      "amount": 78386.8,
+      "tax": 783.87,
+      "total": 79170.67,
+      "vendor_name": "Wood, Tran and Cooper Ltd",
+      "date_issued": "2023-09-02"
+    }
+  }
+]

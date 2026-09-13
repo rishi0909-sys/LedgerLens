@@ -1,0 +1,8 @@
+{
+  "dataset_version": "1.0",
+  "feature_schema_version": "1.0",
+  "sequence_length": 20,
+  "grouping_key": "source_account",
+  "target_definition": "is_anomalous",
+  "padding_strategy": "zero_pad_with_boolean_mask"
+}

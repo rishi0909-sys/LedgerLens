@@ -1,0 +1,30 @@
+{
+  "model_id": "graphsage-edge-v1",
+  "model_type": "graphsage_edge",
+  "dataset_version": "1.0",
+  "hyperparameters": {
+    "hidden_channels": 64
+  },
+  "test_metrics": {
+    "PR-AUC": 0.15352383182466317,
+    "ROC-AUC": 0.5074074074074074,
+    "F1": 0.08888888888888889,
+    "Recall": 0.2,
+    "Precision": 0.05714285714285714,
+    "FPR": 0.2037037037037037,
+    "ConfusionMatrix": {
+      "TN": 129,
+      "FP": 33,
+      "FN": 8,
+      "TP": 2
+    },
+    "Precision@10": 0.0,
+    "Recall@10": 0.0,
+    "Precision@50": 0.05999999865889549,
+    "Recall@50": 0.30000001192092896,
+    "Precision@100": 0.05999999865889549,
+    "Recall@100": 0.6000000238418579
+  },
+  "threshold": 1.0,
+  "artifact_path": "data/ml/models/graphsage-edge-v1.pt"
+}

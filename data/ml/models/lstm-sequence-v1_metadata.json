@@ -1,0 +1,31 @@
+{
+  "model_id": "lstm-sequence-v1",
+  "model_type": "lstm",
+  "sequence_length": 20,
+  "hyperparameters": {
+    "hidden_dim": 64,
+    "num_layers": 2
+  },
+  "test_metrics": {
+    "PR-AUC": 0.7992423020370175,
+    "ROC-AUC": 0.8876262626262627,
+    "F1": 0.5454545454545454,
+    "Recall": 0.75,
+    "Precision": 0.42857142857142855,
+    "FPR": 0.08080808080808081,
+    "ConfusionMatrix": {
+      "TN": 91,
+      "FP": 8,
+      "FN": 2,
+      "TP": 6
+    },
+    "Precision@10": 0.6000000238418579,
+    "Recall@10": 0.75,
+    "Precision@50": 0.14000000059604645,
+    "Recall@50": 0.875,
+    "Precision@100": 0.07999999821186066,
+    "Recall@100": 1.0
+  },
+  "threshold": 0.21157941222190857,
+  "artifact_path": "data/ml/models/lstm-sequence-v1.pt"
+}

@@ -1,0 +1,32 @@
+{
+  "model_id": "transformer-sequence-v1",
+  "model_type": "transformer",
+  "sequence_length": 20,
+  "hyperparameters": {
+    "d_model": 64,
+    "nhead": 4,
+    "num_layers": 2
+  },
+  "test_metrics": {
+    "PR-AUC": 0.5361168452612739,
+    "ROC-AUC": 0.6022727272727273,
+    "F1": 0.6666666666666666,
+    "Recall": 0.5,
+    "Precision": 1.0,
+    "FPR": 0.0,
+    "ConfusionMatrix": {
+      "TN": 99,
+      "FP": 0,
+      "FN": 4,
+      "TP": 4
+    },
+    "Precision@10": 0.4000000059604645,
+    "Recall@10": 0.5,
+    "Precision@50": 0.07999999821186066,
+    "Recall@50": 0.5,
+    "Precision@100": 0.05999999865889549,
+    "Recall@100": 0.75
+  },
+  "threshold": 0.5089663863182068,
+  "artifact_path": "data/ml/models/transformer-sequence-v1.pt"
+}
