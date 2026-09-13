@@ -8,9 +8,9 @@ const createDefaultDocState = () => ({
   progress: { ocr: 0, extraction: 0, finbert: 0, reconciliation: 0 }
 });
 
-const createDefaultAudit = () => [
-  { id: crypto.randomUUID(), timestamp: new Date().toISOString(), type: 'SYSTEM', description: 'Case created and entered screening pipeline.' },
-  { id: crypto.randomUUID(), timestamp: new Date().toISOString(), type: 'SYSTEM', description: 'Screening complete. Placed into investigation queue.' }
+const createDefaultAudit = (): InvestigationEvent[] => [
+  { id: crypto.randomUUID(), timestamp: new Date().toISOString(), type: 'SYSTEM_ALERT', actor: 'SYSTEM', description: 'Case created and entered screening pipeline.' },
+  { id: crypto.randomUUID(), timestamp: new Date().toISOString(), type: 'STATUS_CHANGE', actor: 'SYSTEM', description: 'Screening complete. Placed into investigation queue.' }
 ];
 
 export const DEMO_CANDIDATES: CandidateCase[] = [
