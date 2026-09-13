@@ -1,4 +1,4 @@
-import type { CandidateCase } from '../types';
+import type { CandidateCase, InvestigationEvent } from '../types';
 
 export const DEMO_WINDOW_ID = 'WIN-2026-09-07';
 
@@ -31,6 +31,7 @@ export const DEMO_CANDIDATES: CandidateCase[] = [
     status: 'QUEUED',
     events: createDefaultAudit(),
     document_analysis: createDefaultDocState(),
+    notes: [],
   },
   {
     transaction_id: 'TX-0817',
@@ -49,6 +50,7 @@ export const DEMO_CANDIDATES: CandidateCase[] = [
     status: 'QUEUED',
     events: createDefaultAudit(),
     document_analysis: createDefaultDocState(),
+    notes: [],
   },
   {
     transaction_id: 'TX-3319',
@@ -67,6 +69,7 @@ export const DEMO_CANDIDATES: CandidateCase[] = [
     status: 'QUEUED',
     events: createDefaultAudit(),
     document_analysis: createDefaultDocState(),
+    notes: [],
   },
   {
     transaction_id: 'TX-9921',
@@ -85,6 +88,7 @@ export const DEMO_CANDIDATES: CandidateCase[] = [
     status: 'QUEUED',
     events: createDefaultAudit(),
     document_analysis: createDefaultDocState(),
+    notes: [],
   },
   {
     transaction_id: 'TX-4402',
@@ -103,5 +107,6 @@ export const DEMO_CANDIDATES: CandidateCase[] = [
     status: 'QUEUED',
     events: createDefaultAudit(),
     document_analysis: createDefaultDocState(),
+    notes: [],
   },
 ];
